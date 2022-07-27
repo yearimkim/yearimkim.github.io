@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yearim Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Web developer based in Toronto."
+  bio              : "Web Developer based in Toronto."
   location         : "Toronto, Ontario"
   email            : yearim.kim@outlook.com
   links:
